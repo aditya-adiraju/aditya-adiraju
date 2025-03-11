@@ -14,11 +14,11 @@ I enjoy cryptography and love CTFs. I'm also a fan of automating project pipelin
 
 ### Projects that I enjoyed making!
 
-- 🧦🤖 [**SockBot**](https://github.com/aditya-adiraju/SockBot): A discord bot for UBC A Cappella's Sock Wars, an assassin-based game, made with [**PyCord**](https://pycord.dev/) and [*SQLite*](https://www.sqlite.org/)
-- 🌐🎙️ [**EchoSphere**](https://github.com/aditya-adiraju/echo-sphere/): A web application that lets users create, chat with, and listen to audio only livestreams, powered with [*NextJS*](https://nextjs.org/) and [*WebRTC*](https://webrtc.org/).
-- 🐧🐧 [**dotfiles**](https://github.com/aditya-adiraju/dotfiles): A monorepo of various linux config files for various tools, mainly [NixOS flakes](https://nixos.org/) and neovim configurations [*neovim*](https://neovim.io/)
+- 🧦🤖 [**SockBot**](https://github.com/aditya-adiraju/SockBot): A discord bot for UBC A Cappella's Sock Wars, an assassin-based game, made with *PyCord* and *SQLite*
+- 🌐🎙️ [**EchoSphere**](https://github.com/aditya-adiraju/echo-sphere/): A web application that lets users create, chat with, and listen to audio only livestreams, powered with *NextJS* and *WebRTC*.
+- 🐧🐧 [**dotfiles**](https://github.com/aditya-adiraju/dotfiles): A monorepo of various linux config files for various tools, mainly *NixOS* flakes and *neovim* configurations
 - 🏁🗒️ [**ctf-diary**](https://github.com/aditya-adiraju/capture-the-flag) & [**team diary**](https://github.com/mmm-team/public-writeups/): A series of (sort of) up to date writeups for fun cybersecurity challenges from various CTFs
-- ⚔️ 🚢 [**Battleship**](): An Object-oriented implementation of Battleship (the game) using [*Java*](https://www.java.com/) and [*JUnit*](https://junit.org/junit5/)
+- ⚔️ 🚢 [**Battleship**](): An Object-oriented implementation of Battleship (the game) using *Java* and *JUnit*
 
 ### Reach Out On
 I love working on projects and helping people out, contact me at any of the following:
