@@ -1,12 +1,12 @@
 ## Hiya there 👋, I'm Aditya Adiraju!
 
-Working at [UBC's Faculty of Medicine](https://med.ubc.ca/) writing software to support Medical Education and future doctors globally 👨‍⚕️ 👩‍⚕️.
+Working at SAP 💙 as a SWE intern.
 
 I study **Computer Science and Mathematics** at **The University of British Columbia**!
 
 I enjoy cryptography and love CTFs. I'm also a fan of automating project pipelines with the cloud. I love working on cool hardware projets from time to time 
 
-💻 Building software at UBC's Faculty of Medicine to support Medical Education and help future doctors worldwide 👨‍⚕️👩‍⚕️.
+
 🎓 Studying Computer Science & Mathematics at The University of British Columbia.
 🔐 I enjoy exploring Cryptography and competing in CTFs (Capture the Flag challenges) with [Maple Bacon](https://maplebacon.org/) and [Maple Mallard Magistrates](https://github.com/mmm-team).
 ☁️ Love staring at yaml for hours to set up cloud-based pipelines to automate projects.
