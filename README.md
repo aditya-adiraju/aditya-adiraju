@@ -1,7 +1,5 @@
 ## Hiya there 👋, I'm Aditya Adiraju!
 
-Working at SAP 💙 as a SWE intern.
-
 I study **Computer Science and Mathematics** at **The University of British Columbia**!
 
 I enjoy cryptography and love CTFs. I'm also a fan of automating project pipelines with the cloud. I love working on cool hardware projets from time to time 
