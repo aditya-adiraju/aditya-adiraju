@@ -2,9 +2,6 @@
 
 I study **Computer Science and Mathematics** at **The University of British Columbia**!
 
-I enjoy cryptography and love CTFs. I'm also a fan of automating project pipelines with the cloud. I love working on cool hardware projets from time to time 
-
-
 🎓 Studying Computer Science & Mathematics at The University of British Columbia.
 
 ☠️ Organizing DEF CON CTF with the [Benevolent Bureau of Birds](https://bbbirds.org/)
