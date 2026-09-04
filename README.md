@@ -7,6 +7,7 @@ I enjoy cryptography and love CTFs. I'm also a fan of automating project pipelin
 
 🎓 Studying Computer Science & Mathematics at The University of British Columbia.
 🔐 I enjoy exploring Cryptography and competing in CTFs (Capture the Flag challenges) with [Maple Bacon](https://maplebacon.org/) and [Maple Mallard Magistrates](https://github.com/mmm-team).
+
 ☁️ Love staring at yaml for hours to set up cloud-based pipelines to automate projects.
 
 
@@ -19,8 +20,11 @@ I enjoy cryptography and love CTFs. I'm also a fan of automating project pipelin
 - 🏁🗒️ [**ctf-diary**](https://github.com/aditya-adiraju/capture-the-flag) & [**team diary**](https://github.com/mmm-team/public-writeups/): A series of (sort of) up to date writeups for fun cybersecurity challenges from various CTFs
 - ⚔️ 🚢 [**Battleship**](): An Object-oriented implementation of Battleship (the game) using *Java* and *JUnit*
 
+(I promise that I used emojis before the LLMs thought it was cool :P)
 ### Reach Out On
 I love working on projects and helping people out, contact me at any of the following:
 
 - **Email**: `adiraju<at>student<dot>ubc<dot>ca`
 - [**LinkedIn**](https://linkedin.com/in/adityaadiraju)
+
+
