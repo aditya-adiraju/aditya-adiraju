@@ -6,10 +6,9 @@ I enjoy cryptography and love CTFs. I'm also a fan of automating project pipelin
 
 
 🎓 Studying Computer Science & Mathematics at The University of British Columbia.
+☠️ Organizing DEF CON CTF with the [Benevolent Bureau of Birds](https://bbbirds.org/)
 🔐 I enjoy exploring Cryptography and competing in CTFs (Capture the Flag challenges) with [Maple Bacon](https://maplebacon.org/) and [Maple Mallard Magistrates](https://github.com/mmm-team).
-
-☁️ Love staring at yaml for hours to set up cloud-based pipelines to automate projects.
-
+☁️ Love staring at yaml for hours.
 
 ### Projects that I enjoyed making!
 
